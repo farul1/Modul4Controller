@@ -6,10 +6,13 @@ Hello! I'm Syafarul Priwantoro, a passionate web developer with expertise in Lar
 
 ## Skills
 
+## Skills
+
 - Proficient in Laravel framework
 - Strong understanding of PHP and modern web technologies
 - Experienced in building RESTful APIs and web applications
 - Knowledgeable in front-end technologies such as HTML, CSS, and JavaScript
+- Skilled in database management systems and backend development
 
 ## Projects
 
@@ -25,7 +28,7 @@ Hello! I'm Syafarul Priwantoro, a passionate web developer with expertise in Lar
 
 ## Education
 
-- Bachelor's Degree in Computer Science, XYZ University
+- Currently enrolled as an active student at TELKOM University, Surabaya, pursuing a Bachelor's Degree in Computer Science.
 
 ## Certifications
 
